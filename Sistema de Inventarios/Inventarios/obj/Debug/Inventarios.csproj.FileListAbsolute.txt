@@ -1,0 +1,25 @@
+C:\Users\Sergio\source\repos\Inventarios\Inventarios\obj\Debug\Inventarios.csproj.AssemblyReference.cache
+C:\Users\Sergio\source\repos\Inventarios\Inventarios\obj\Debug\Inventarios.csproj.SuggestedBindingRedirects.cache
+C:\Users\Sergio\source\repos\Inventarios\Inventarios\obj\Debug\Inventarios.Login.resources
+C:\Users\Sergio\source\repos\Inventarios\Inventarios\obj\Debug\Inventarios.Properties.Resources.resources
+C:\Users\Sergio\source\repos\Inventarios\Inventarios\obj\Debug\Inventarios.csproj.GenerateResource.cache
+C:\Users\Sergio\source\repos\Inventarios\Inventarios\obj\Debug\Inventarios.csproj.CoreCompileInputs.cache
+C:\Users\Sergio\source\repos\Inventarios\Inventarios\bin\Debug\Inventarios.exe.config
+C:\Users\Sergio\source\repos\Inventarios\Inventarios\bin\Debug\Inventarios.exe
+C:\Users\Sergio\source\repos\Inventarios\Inventarios\bin\Debug\Inventarios.pdb
+C:\Users\Sergio\source\repos\Inventarios\Inventarios\obj\Debug\Inventarios.exe
+C:\Users\Sergio\source\repos\Inventarios\Inventarios\obj\Debug\Inventarios.pdb
+C:\Users\Sergio\source\repos\Inventarios\Inventarios\bin\Debug\Conexiones.dll
+C:\Users\Sergio\source\repos\Inventarios\Inventarios\bin\Debug\Conexiones.pdb
+C:\Users\Sergio\source\repos\Inventarios\Inventarios\obj\Debug\Inventarios.csproj.CopyComplete
+C:\Users\Sergio\source\repos\Inventarios\Inventarios\obj\Debug\Inventarios.Form1.resources
+C:\Users\Sergio\source\repos\Inventarios\Inventarios\obj\Debug\Inventarios.Inventarios.resources
+C:\Users\Sergio\source\repos\Inventarios\Inventarios\obj\Debug\Inventarios.Productos.resources
+C:\Users\Sergio\source\repos\Inventarios\Inventarios\bin\Debug\OpInventarios.dll
+C:\Users\Sergio\source\repos\Inventarios\Inventarios\bin\Debug\OpInventarios.pdb
+C:\Users\Sergio\source\repos\Inventarios\Inventarios\bin\Debug\OpProductos.dll
+C:\Users\Sergio\source\repos\Inventarios\Inventarios\bin\Debug\OpProductos.pdb
+C:\Users\Sergio\source\repos\Inventarios\Inventarios\obj\Debug\Inventarios.BuscarProducto.resources
+C:\Users\sergi\OneDrive\Escritorio\Nueva carpeta\Sistema de Inventarios\Inventarios\obj\Debug\Inventarios.csproj.AssemblyReference.cache
+C:\Users\sergi\OneDrive\Escritorio\Nueva carpeta\Sistema de Inventarios\Inventarios\obj\Debug\Inventarios.exe
+C:\Users\sergi\OneDrive\Escritorio\Nueva carpeta\Sistema de Inventarios\Inventarios\obj\Debug\Inventarios.pdb

@@ -1,0 +1,6 @@
+C:\Users\Sergio\source\repos\Inventarios\OpInventarios\bin\Debug\OpInventarios.dll
+C:\Users\Sergio\source\repos\Inventarios\OpInventarios\bin\Debug\OpInventarios.pdb
+C:\Users\Sergio\source\repos\Inventarios\OpInventarios\obj\Debug\OpInventarios.csproj.AssemblyReference.cache
+C:\Users\Sergio\source\repos\Inventarios\OpInventarios\obj\Debug\OpInventarios.csproj.CoreCompileInputs.cache
+C:\Users\Sergio\source\repos\Inventarios\OpInventarios\obj\Debug\OpInventarios.dll
+C:\Users\Sergio\source\repos\Inventarios\OpInventarios\obj\Debug\OpInventarios.pdb

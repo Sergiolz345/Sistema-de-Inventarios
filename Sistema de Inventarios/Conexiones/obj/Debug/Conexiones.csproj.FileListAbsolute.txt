@@ -1,0 +1,6 @@
+C:\Users\Sergio\source\repos\Inventarios\Conexiones\bin\Debug\Conexiones.dll
+C:\Users\Sergio\source\repos\Inventarios\Conexiones\bin\Debug\Conexiones.pdb
+C:\Users\Sergio\source\repos\Inventarios\Conexiones\obj\Debug\Conexiones.csproj.AssemblyReference.cache
+C:\Users\Sergio\source\repos\Inventarios\Conexiones\obj\Debug\Conexiones.csproj.CoreCompileInputs.cache
+C:\Users\Sergio\source\repos\Inventarios\Conexiones\obj\Debug\Conexiones.dll
+C:\Users\Sergio\source\repos\Inventarios\Conexiones\obj\Debug\Conexiones.pdb

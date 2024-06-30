@@ -1,0 +1,6 @@
+C:\Users\Sergio\source\repos\Inventarios\OpProductos\bin\Debug\OpProductos.dll
+C:\Users\Sergio\source\repos\Inventarios\OpProductos\bin\Debug\OpProductos.pdb
+C:\Users\Sergio\source\repos\Inventarios\OpProductos\obj\Debug\OpProductos.csproj.AssemblyReference.cache
+C:\Users\Sergio\source\repos\Inventarios\OpProductos\obj\Debug\OpProductos.csproj.CoreCompileInputs.cache
+C:\Users\Sergio\source\repos\Inventarios\OpProductos\obj\Debug\OpProductos.dll
+C:\Users\Sergio\source\repos\Inventarios\OpProductos\obj\Debug\OpProductos.pdb
